@@ -36,10 +36,10 @@ plugins:
   - jekyll-include-cache
 
 header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - notes.md
+  - index/
+  - about/
+  - projects/
+  - notes/
 
 
 # Exclude from processing.
