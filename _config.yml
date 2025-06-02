@@ -35,13 +35,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-header:
-  nav: main
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - notes.md
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
